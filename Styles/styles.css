@@ -1,0 +1,99 @@
+body {
+  bakground-color: white;
+}
+
+header {
+  background-image: url(http://www.paydiddy.com/gallery/mobile-e-commerce-websites-the-importance-of-responsiveness-pictures/web-design-services.png);
+ background-color: white;
+  padding: 30px;
+  background-size: %;
+  background-position: center;
+  margin: 0px;
+  height: 210px;
+  text-align: center;
+
+
+}
+
+aside {
+  background-color: white;
+  float: left;
+  padding: 15px;
+  margin-right: 25px;
+  width: 200px;
+  height: 205px;
+}
+
+main {
+  background-color: white;
+  margin-bottom: 10px;
+  margin-left: 230px;
+  margin-top: 0px;
+  padding: 15px;
+  padding-bottom: 200px;
+  height: 205px;
+}
+
+footer {
+  background-color: white;
+  padding: 25px;
+  text-align: right;
+  margin-top: 200px;
+  color: #5E9EFF;
+  font-family: papyrus;
+  font-size: 20px;
+  opacity: .5;
+ }
+
+main p {
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+  font-family:
+}
+
+main h1 {
+  text-align: center;
+  color: orange;
+  font-family: Optima;
+}
+
+main h3 {
+  text-align: center;
+  color: orange;
+  font-family: papyrus;
+}
+
+aside nav ul {
+  list-style: none;
+}
+
+a:link {
+  color: red;
+  font-size: 24px;
+  font-family: optima;
+  text-decoration: none;
+ }
+
+a:visited {
+  color: orange;
+
+}
+
+a:focus {
+  color: #FFCC00;
+  background-color: #4D4D4D;
+  opacity: .5;
+}
+
+a:active {
+  color: #0C0
+}
+
+a:hover {
+  color: red;
+  background-color: #4D4D4D;
+  opacity: .5;
+
+
+}
